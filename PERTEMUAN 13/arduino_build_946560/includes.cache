@@ -1,0 +1,97 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\KRESHNA PUTRA ADI\\AppData\\Local\\Temp\\arduino_build_946560\\sketch\\iotku.ino.cpp",
+    "Include": "Servo.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\KRESHNA PUTRA ADI\\AppData\\Local\\Temp\\arduino_build_946560\\sketch\\iotku.ino.cpp",
+    "Include": "EtherCard.h",
+    "Includepath": "C:\\Users\\KRESHNA PUTRA ADI\\Documents\\Arduino\\libraries\\EtherCard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\KRESHNA PUTRA ADI\\AppData\\Local\\Temp\\arduino_build_946560\\sketch\\iotku.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\avr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\mbed\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\megaavr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\nrf52\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\sam\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\samd\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Servo\\src\\stm32f4\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\KRESHNA PUTRA ADI\\Documents\\Arduino\\libraries\\EtherCard\\EtherCard.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\KRESHNA PUTRA ADI\\Documents\\Arduino\\libraries\\EtherCard\\dhcp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\KRESHNA PUTRA ADI\\Documents\\Arduino\\libraries\\EtherCard\\dns.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\KRESHNA PUTRA ADI\\Documents\\Arduino\\libraries\\EtherCard\\enc28j60.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\KRESHNA PUTRA ADI\\Documents\\Arduino\\libraries\\EtherCard\\tcpip.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\KRESHNA PUTRA ADI\\Documents\\Arduino\\libraries\\EtherCard\\udpserver.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\KRESHNA PUTRA ADI\\Documents\\Arduino\\libraries\\EtherCard\\webutil.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
