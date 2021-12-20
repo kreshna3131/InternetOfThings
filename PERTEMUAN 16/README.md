@@ -50,5 +50,6 @@
   <li>pada line 12 hingga 18 ini berupa script javascript yang digunakan untuk merefresh website dan mengambil data</li>
   <li>line 23 hingga 30 digunakan untuk menempatkan data yang ditampilkan</li>
 </ol>
+<hr>
 
 <b><i>*Ini saja yang dapat saya jelaskan dalam program yang saya buat, kurang lebihnya mohon maaf. Terimakasih :)</i></b>
